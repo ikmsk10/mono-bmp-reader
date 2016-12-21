@@ -1,0 +1,4 @@
+/home/ikononenko/Distr/clion-2016.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ikononenko/Projects/mono_bmp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ikononenko/Projects/mono_bmp/cmake-build-debug

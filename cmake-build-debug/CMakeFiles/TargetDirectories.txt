@@ -1,0 +1,3 @@
+/home/ikononenko/Projects/mono_bmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ikononenko/Projects/mono_bmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ikononenko/Projects/mono_bmp/cmake-build-debug/CMakeFiles/mbmp_reader.dir

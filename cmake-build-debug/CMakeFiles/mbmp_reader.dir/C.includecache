@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/bmp.h
+
+/home/ikononenko/Projects/mono_bmp/src/main.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+bmp.h
+-
+unistd.h
+-
+memory.h
+-
+
